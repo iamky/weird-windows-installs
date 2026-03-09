@@ -1,3 +1,5 @@
+THIS IS THE BEST METHOD TO INSTALL WINDOWS FROM LINUX 
+
 1. get the win iso
 
 2.this step is only required if u want to install windows in specific partition. 
